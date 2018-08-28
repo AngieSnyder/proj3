@@ -1,1 +1,1 @@
-# proj3 - Bootcamp day 2- more Git Hub fun
+# proj3 - Bootcamp day 2- more GitHub fun
